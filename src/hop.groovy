@@ -1,1 +1,2 @@
-redirect("18004654653");
+say("Transferring you now, please wait.");
+transfer("+18004654653");
