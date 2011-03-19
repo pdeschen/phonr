@@ -1,6 +1,6 @@
 answer();
 await(2);
-say("Hello Asian Runner!");
+say("Hello!");
 say("Welcome to, Jay Pee.");
 say("Personal line.");
 say("Transferring you call to C I B C.");
